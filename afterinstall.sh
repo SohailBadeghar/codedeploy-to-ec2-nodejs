@@ -1,4 +1,3 @@
 #!/bin/bash
-
-cd /home/ubuntu
-npm -f install
+cd /tmp/epub/server/
+npm install
