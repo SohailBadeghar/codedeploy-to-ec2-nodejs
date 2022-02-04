@@ -1,3 +1,5 @@
 #!/bin/bash
-cd /tmp/epub/server/
-npm install
+
+
+pip3 install --upgrade pip
+pip3 install virtualenv
