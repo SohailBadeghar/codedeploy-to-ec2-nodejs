@@ -1,5 +1,3 @@
-#!/bin/bash
-source /home/ec2-user/.bash_profile
-
-cd /home/ubuntu
-npm -f install
+#!/bin/bash 
+cd /tmp/epub/server/
+npm install 
