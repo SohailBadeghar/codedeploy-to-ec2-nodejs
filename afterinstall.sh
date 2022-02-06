@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /tmp/epub/server/
+cd /home/ubuntu
 npm install
